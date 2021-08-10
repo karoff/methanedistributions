@@ -18,13 +18,13 @@ The programs makes use of the following standard packages: xarray, os, glob, jdc
 ## Program structure
 There are 4 program that needs to be run in consecutive order. These are:
 
- - [step01.py] - This program reads in the XCH4 and CO2 measurements from the NetCDF files prepared by the WFM-DOAS algorithm.
- - [step02.py] - This program look up the MODIS land cover classification for each XCH4 and XCO measurement and write them to a file.
- - [step03.py] - This program draw all the histograms.
- - [step04.py] - This program plots a large color coded matrix, which shows the mean value of all the distributions. 
+ - [step01.py](step01.py) - This program reads in the XCH4 and CO2 measurements from the NetCDF files prepared by the WFM-DOAS algorithm.
+ - [step02.py](step02.py) - This program look up the MODIS land cover classification for each XCH4 and XCO measurement and write them to a file.
+ - [step03.py](step03.py) - This program draw all the histograms.
+ - [step04.py](step04.py) - This program plots a large color coded matrix, which shows the mean value of all the distributions. 
 
 ## Plots
-A folder with pre-made plots can be found [here](Figs).
+A folder with pre-made plots can be found [here](Figs/).
 
 
 
