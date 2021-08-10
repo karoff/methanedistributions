@@ -24,7 +24,7 @@ There are 4 program that needs to be run in consecutive order. These are:
  - [step04.py](step04.py) - This program plots a large color coded matrix, which shows the mean value of all the distributions. 
 
 ## Plots
-A folder with pre-made plots can be found [here](Figs/).
+A folder with pre-made plots can be found [here](figs).
 
 
 
