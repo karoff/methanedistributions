@@ -4,11 +4,13 @@ link to paper
 ## Overview and contents 
 This repository contains code and spreadsheets supporting the paper "Analysis of atmospheric methane concentrations as function of geographic, land cover type and season".
 
-The analysis is based on observations from the TROPOMI instrument on Sentinel-5P reduced with the [WFM-DOAS algorithm](https://www.iup.uni-bremen.de/carbon_ghg/products/tropomi_wfmd/).
+The analysis is based on observations from the TROPOMI instrument on Sentinel-5P reduced with the [WFM-DOAS algorithm](https://www.iup.uni-bremen.de/carbon_ghg/products/tropomi_wfmd/) and the [RemoTeC algorithm](https://www.sron.nl/earth-data-access).
 
 For the analysis distribution of XCH4 and XCO are calculated as function of continent, land cover type and season.
 
-Information of land cover type is obtained from [MODIS](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1).
+Information of land cover type is obtained from [MODIS](https://developers.google.com/earth-engine/datasets/catalog/MODIS_006_MCD12Q1) and [ESA](https://esa-worldcover.org/en/about/about)
+
+
 
 Continent maps are obtained from [Esri](https://hub.arcgis.com/datasets/esri::world-continents/).
 
